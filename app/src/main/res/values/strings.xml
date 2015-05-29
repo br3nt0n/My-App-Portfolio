@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- App title -->
+    <string name="app_title">My Nanodegree Apps!</string>
+
+    <!-- Button titles -->
+    <string name="app_spotify">Spotify Streamer</string>
+    <string name="app_scores">Scores App</string>
+    <string name="app_library">Library App</string>
+    <string name="app_builditbigger">Build It Bigger</string>
+    <string name="app_xyzreader">XYZ Reader</string>
+    <string name="app_capstone">Capstone: My Own App</string>
+
+    <!-- Toast strings -->
+    <string name="toast_sentence_start">This button will launch my\u0020</string>
+    <string name="toast_sentence_end">\u0020app!</string>
+    <string name="toast_app_spotify">Spotify Streamer</string>
+    <string name="toast_app_scores">Scores</string>
+    <string name="toast_app_library">Library</string>
+    <string name="toast_app_builditbigger">Build It Bigger</string>
+    <string name="toast_app_xyzreader">XYZ Reader</string>
+    <string name="toast_app_capstone">Capstone: My Own</string>
+</resources>
